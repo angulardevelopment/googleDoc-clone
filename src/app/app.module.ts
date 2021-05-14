@@ -4,7 +4,6 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { DocComponent } from './doc/doc.component';
-import { CKEditorModule } from 'ng2-ckeditor';
 import { FormsModule } from '@angular/forms';
 
 @NgModule({
@@ -16,7 +15,6 @@ import { FormsModule } from '@angular/forms';
     BrowserModule,
     AppRoutingModule,
     FormsModule,
-    CKEditorModule,
 
   ],
   providers: [],
