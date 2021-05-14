@@ -1,3 +1,30 @@
+# About 
+
+Google Doc Clone
+
+Develop a pseudo Front End Application in Angular which would let the users to collaboratively edit a Document.
+
+
+[Minimum Requirement]
+— A button to Create a single Document.
+— Use a WYSIWYG Editor to Add/Edit any data in the document.
+— Store the Document in any Database or inbuilt memory.
+-       The editor should have various  functionalities to format the text such as bold, italic, bullet points, super script, subscript, fonts, size, color etc.
+-       Users should be able to copy and paste from external documents.
+-       During the copy paste  process only the text should be pasted and other information such as formatting, html tag, images etc. should be removed.
+
+— Store Edit History of the whole document. It must be possible to revert back to any edit version. (Store edit history in a database and track changes. Do not spend much time)
+— It must be possible to select just a part of the document and edit it using WYSIWYG Editor.
+
+
+— Deploy your Frontend App on any Static Website Hosting Service. (This deployment link must be active for at least 2 weeks from Submission Date.)
+— Provide the Deployment URL along with Source Code in a .txt file
+— Submit Screenshot, Source code & Instructions
+
+
+package used-
+
+
 # GoogleDoc
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.

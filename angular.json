@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "google-doc"
+  "defaultProject": "google-doc",
+  "cli": {
+    "analytics": false
+  }
 }
